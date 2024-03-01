@@ -1,18 +1,10 @@
-## Getting Started
+# Java Swing Scientific Calculator
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a calculator application built using Java Swing.
 
-## Folder Structure
+## Features
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Basic arithmetic operations: addition, subtraction, multiplication, division.
+- Additional functions: square root, power of 2, power of 3, factorial, logarithm, trigonometric functions.
+- Visual feedback: Responsive UI with buttons and text field for input and output.
+- Error handling: Proper handling of invalid inputs and operations.
